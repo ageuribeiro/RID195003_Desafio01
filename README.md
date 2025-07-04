@@ -5,8 +5,8 @@ Essa landing page é o primeiro desafio proposto pelo Escola DNC. Apresenta brev
 - [x] Formulário para cadastro de possiveis clientes com os campos: Nome e Email, obrigatórios.
 
 ## 👽 Tecnologias utilizadas
-- [x] HTML;
-- [x] CSS;
+- [x] HTML
+- [x] CSS
 - [x] Visual Studio Code
 - [x] Figma
 
